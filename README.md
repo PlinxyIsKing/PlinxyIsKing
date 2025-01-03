@@ -14,7 +14,10 @@
   • Contributing to open source projects<br>
   • Always up for a coding challenge<br>
 
-🌱 Learning: Cloud Architecture, DevOps practices, and System Design
+🌱 Learning:<br>
+  • Cloud Architecture
+  • DevOps practices
+  • System Design
 </p>
 
 <h2 align="left">🛠️ Tech Stack</h2>
