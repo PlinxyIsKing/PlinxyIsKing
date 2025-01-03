@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 I'm JustPlinxy</h1>
 
-<p align="left">A passionate Full Stack Developer from the United Kingdom, specializing in Web Development, Minecraft Plugins, and Discord Bot Development. Currently leading Alwy Hosting to new heights! 🚀</p>
+<p align="left">A passionate Full Stack Developer from the United Kingdom, specializing in Web Development, Minecraft Servers, and Discord Bot Development. Currently leading Alwy Hosting to new heights! 🚀</p>
 
 <h2 align="left">👨‍💻 About Me</h2>
 
