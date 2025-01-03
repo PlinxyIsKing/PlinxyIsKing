@@ -58,10 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JustPlinxy&show_icons=true&theme=radical)
-
 <h2 align="left">🤝 Connect With Me</h2>
 
 <div align="left">
@@ -78,20 +74,11 @@
 
 - **Alwy Hosting** - Building a reliable and scalable hosting platform
 - **Custom Discord Bots** - Creating feature-rich bots for community management
-- **Minecraft Plugins** - Developing unique gameplay experiences
-
-<h2 align="left">📈 Weekly Development Breakdown</h2>
-
-```text
-JavaScript   12 hrs 42 mins  ███████████░░░░░░  45.8%
-TypeScript   8 hrs 15 mins   ██████░░░░░░░░░░░  29.7%
-React        4 hrs 30 mins   ████░░░░░░░░░░░░░  16.2%
-Java         2 hrs 18 mins   ██░░░░░░░░░░░░░░░   8.3%
-```
+- **Minecraft Servers** - Developing unique gameplay experiences
 
 <h2 align="left">🏆 Achievements</h2>
 
-- 🌟 Successfully launched and scaled Alwy Hosting
-- 💻 Developed 20+ custom Minecraft plugins
-- 🤖 Created Discord bots serving 100k+ users
+- 🌟 Successfully launched Alwy Hosting
+- 💻 Developed 20+ custom Minecraft servers
+- 🤖 Created Discord bots serving 2k+ users
 - 📚 Contributed to various open-source projects
