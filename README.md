@@ -8,10 +8,12 @@
 ✨ Creating bugs (and fixing them!) since 2017<br>
 📚 Currently diving deep into React and modern web architecture<br>
 🎯 Goals: Scale Alwy Hosting to become a leading hosting provider<br>
-🎲 Fun facts:<br>
+
+🎲 Fun facts:
   • Proud dog parent to Baxter 🐕<br>
   • Contributing to open source projects<br>
   • Always up for a coding challenge<br>
+
 🌱 Learning: Cloud Architecture, DevOps practices, and System Design
 </p>
 
