@@ -37,6 +37,8 @@ I am a passionate Full Stack Software Engineer from the United Kingdom with exte
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
+  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" height="40" alt="postgres" />
+  <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
