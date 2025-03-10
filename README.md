@@ -26,7 +26,7 @@ I am a passionate Full Stack Software Engineer from the United Kingdom with exte
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.discordapp.com/attachments/1319252956796682241/1324914477455511624/png-transparent-tailwind-css-hd-logo-removebg-preview.png?ex=6779e243&is=677890c3&hm=2c019f7703f81bb5c4103214c954c3a753f2fbb1f8542e1deabda5000c7dc56f&" height="40" alt="Tailwind CSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
